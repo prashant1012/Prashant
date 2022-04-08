@@ -48,9 +48,9 @@
 					<div class="image-slider">
 						<!-- Slideshow 1 -->
 					    <ul class="rslides" id="slider1">
-					      <li><img src="images/slider-image1.jpg" alt=""></li>
-					      <li><img src="images/slider-image2.jpg" alt=""></li>
-					      <li><img src="images/slider-image1.jpg" alt=""></li>
+					      <li><img src="Prashant/slider-image1.jpg" alt=""></li>
+					      <li><img src="Prashant/slider-image2.jpg" alt=""></li>
+					      <li><img src="Prashant/slider-image1.jpg" alt=""></li>
 					    </ul>
 						 <!-- Slideshow 2 -->
 					</div>
