@@ -48,9 +48,9 @@
 					<div class="image-slider">
 						<!-- Slideshow 1 -->
 					    <ul class="rslides" id="slider1">
-					      <li><img src="Prashant/slider-image1.jpg" alt=""></li>
-					      <li><img src="Prashant/slider-image2.jpg" alt=""></li>
-					      <li><img src="Prashant/slider-image1.jpg" alt=""></li>
+					      <li><img src="images/slider-image1.jpg" alt=""></li>
+					      <li><img src="images/slider-image2.jpg" alt=""></li>
+					      <li><img src="images/slider-image1.jpg" alt=""></li>
 					    </ul>
 						 <!-- Slideshow 2 -->
 					</div>
@@ -63,7 +63,7 @@
 							
 				<div class="listview_1_of_3 images_1_of_3">
 					<div class="listimg listimg_1_of_2">
-						  <img src="Prashant/grid-img3.png">
+						  <img src="images/grid-img3.png">
 					</div>
 					<div class="text list_1_of_2">
 						  <h3>Patients</h3>
