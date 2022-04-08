@@ -63,7 +63,7 @@
 							
 				<div class="listview_1_of_3 images_1_of_3">
 					<div class="listimg listimg_1_of_2">
-						  <img src="images/grid-img3.png">
+						  <img src="Prashant/grid-img3.png">
 					</div>
 					<div class="text list_1_of_2">
 						  <h3>Patients</h3>
